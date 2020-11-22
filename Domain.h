@@ -6,7 +6,7 @@
 #include "VLine.h"
 #include <fstream>
 
-struct Points {
+struct Point {
 	double x, y;
 };
 
